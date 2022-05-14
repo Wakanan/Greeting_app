@@ -1,4 +1,4 @@
-# aisatsu_app
+# Greeting_app
 
 A new Flutter project.
 
